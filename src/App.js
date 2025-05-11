@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Tabs from "./components/Tabs"; // ⬅️ You just made this
+import Tabs from "./components/TabsComponents"; // ⬅️ You just made this
 import "./App.css";
 
 const projects = [
